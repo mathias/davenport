@@ -1,9 +1,9 @@
 {
- "description": "A simple API template provided by the Pliny project.",
- "id": "pliny-template-api",
+ "description": "A place to store URLs for later.",
+ "id": "davenport",
  "links": [{
-   "href": "https://api.example.com",
+   "href": "http://davenport-app.herokuapp.com",
    "rel": "self"
  }],
- "title": "Pliny Template API"
+ "title": "Davenport API"
 }
