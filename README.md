@@ -1,8 +1,11 @@
 # Davenport
 
 > n.
+>
 > 1. A small writing desk.
+>
 > 2. A large sofa or couch, usually that can turn into a bed.
+>
 > 3. A place to store links for later consumption.
 
 This app uses the [Pliny](https://github.com/interagent/pliny) gem.
